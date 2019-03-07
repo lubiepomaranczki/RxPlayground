@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "RxPlayground", "RxPlayground\RxPlayground.shproj", "{9581A3E2-A6B0-4451-8849-6FB2E9F00C11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxPlayground.iOS", "iOS\RxPlayground.iOS.csproj", "{D844A65D-F6DD-479E-AE7D-295D3CEE60D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D844A65D-F6DD-479E-AE7D-295D3CEE60D4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D844A65D-F6DD-479E-AE7D-295D3CEE60D4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D844A65D-F6DD-479E-AE7D-295D3CEE60D4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D844A65D-F6DD-479E-AE7D-295D3CEE60D4}.Release|iPhone.Build.0 = Release|iPhone
+		{D844A65D-F6DD-479E-AE7D-295D3CEE60D4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D844A65D-F6DD-479E-AE7D-295D3CEE60D4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D844A65D-F6DD-479E-AE7D-295D3CEE60D4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D844A65D-F6DD-479E-AE7D-295D3CEE60D4}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
